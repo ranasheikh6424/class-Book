@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Dart SDK">
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/async" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/cli" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/collection" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/convert" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/core" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/developer" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/ffi" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/html" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/indexed_db" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/io" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/isolate" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/js" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/js_interop" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/js_interop_unsafe" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/js_util" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/math" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/mirrors" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/svg" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/typed_data" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/web_audio" />
+    <archive path="C:/sdk/dart/Dart/dart-sdk/lib/web_gl" />
+  </library>
+</eclipse-userlibraries>
+
